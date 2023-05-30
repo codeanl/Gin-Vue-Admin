@@ -1,0 +1,24 @@
+2023-05-31 00:03:52	INFO	common/logger.go:107	gin-vue-admin/gin-vue-admin/common.InitLogger	<=============初始化zap日志完成!============>
+2023-05-31 00:03:52	INFO	common/init.go:37	gin-vue-admin/gin-vue-admin/common.InitMysql	数据库连接DSN: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:03:52	INFO	common/init.go:59	gin-vue-admin/gin-vue-admin/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:03:52	INFO	common/casbin.go:22	gin-vue-admin/gin-vue-admin/common.InitCasbinEnforcer	初始化Casbin完成!
+2023-05-31 00:05:11	INFO	common/logger.go:107	gin-vue-admin/gin-vue-admin/common.InitLogger	<=============初始化zap日志完成!============>
+2023-05-31 00:05:11	INFO	common/init.go:37	gin-vue-admin/gin-vue-admin/common.InitMysql	数据库连接DSN: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:05:11	INFO	common/init.go:59	gin-vue-admin/gin-vue-admin/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:05:11	INFO	common/casbin.go:22	gin-vue-admin/gin-vue-admin/common.InitCasbinEnforcer	初始化Casbin完成!
+2023-05-31 00:06:54	INFO	common/logger.go:107	gin-vue-admin/gin-vue-admin/common.InitLogger	<=============初始化zap日志完成!============>
+2023-05-31 00:06:54	INFO	common/init.go:37	gin-vue-admin/gin-vue-admin/common.InitMysql	数据库连接DSN: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:06:54	INFO	common/init.go:59	gin-vue-admin/gin-vue-admin/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:06:54	INFO	common/casbin.go:22	gin-vue-admin/gin-vue-admin/common.InitCasbinEnforcer	初始化Casbin完成!
+2023-05-31 00:17:42	INFO	common/logger.go:107	gin-vue-admin/gin-vue-admin/common.InitLogger	<=============初始化zap日志完成!============>
+2023-05-31 00:17:42	INFO	common/init.go:37	gin-vue-admin/gin-vue-admin/common.InitMysql	数据库连接DSN: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:17:42	INFO	common/init.go:59	gin-vue-admin/gin-vue-admin/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:17:42	INFO	common/casbin.go:22	gin-vue-admin/gin-vue-admin/common.InitCasbinEnforcer	初始化Casbin完成!
+2023-05-31 00:54:45	INFO	common/logger.go:107	gin-vue-admin/gin-vue-admin/common.InitLogger	<=============初始化zap日志完成!============>
+2023-05-31 00:54:45	INFO	common/init.go:37	gin-vue-admin/gin-vue-admin/common.InitMysql	数据库连接DSN: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:54:45	INFO	common/init.go:59	gin-vue-admin/gin-vue-admin/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:54:45	INFO	common/casbin.go:22	gin-vue-admin/gin-vue-admin/common.InitCasbinEnforcer	初始化Casbin完成!
+2023-05-31 00:56:41	INFO	common/logger.go:107	gin-vue-admin/gin-vue-admin/common.InitLogger	<=============初始化zap日志完成!============>
+2023-05-31 00:56:41	INFO	common/init.go:37	gin-vue-admin/gin-vue-admin/common.InitMysql	数据库连接DSN: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:56:41	INFO	common/init.go:59	gin-vue-admin/gin-vue-admin/common.InitMysql	初始化mysql数据库完成! dsn: root:******@tcp(localhost:3306)/1234?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=True&loc=Local&timeout=10000ms
+2023-05-31 00:56:41	INFO	common/casbin.go:22	gin-vue-admin/gin-vue-admin/common.InitCasbinEnforcer	初始化Casbin完成!
